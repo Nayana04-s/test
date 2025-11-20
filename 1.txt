@@ -1,1 +1,1 @@
-"push and pull operations."
+"Fetch and rebase the content of the file"
